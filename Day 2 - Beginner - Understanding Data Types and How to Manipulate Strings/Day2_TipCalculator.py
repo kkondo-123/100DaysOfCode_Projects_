@@ -1,3 +1,10 @@
+"""
+Name:
+Date: 2025/05/23
+Course: 100 Days of Code Day 2
+Description: Tip Calculator Proejct
+"""
+
 # Solution 1
 print("Welcome to the tip calculator!")
 bill = float(input("What was the total bill? $"))
