@@ -1,5 +1,5 @@
 """
-Name: 
+Name: Kana Kondo
 Date: 2020/12/07 - 2022/08/26
 Course: 100 Days of Code Day 7
 Description: Hangman Project

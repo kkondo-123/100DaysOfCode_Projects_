@@ -1,5 +1,5 @@
 """
-Name: 
+Name: Kana Kondo
 Date: 2025/06/13
 Course: 100 Days of Code Day 7
 Description: Hangman Project

@@ -1,3 +1,10 @@
+"""
+Name: Kana Kondo
+Date: 
+Course: 100 Days of Code Day 2
+Description: 
+"""
+
 # 🚨 Don't change the code below 👇
 age = input("What is your current age? ")
 # 🚨 Don't change the code above 👆

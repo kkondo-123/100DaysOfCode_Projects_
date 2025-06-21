@@ -1,3 +1,10 @@
+"""
+Name: Kana Kondo
+Date: 
+Course: 100 Days of Code Day 2
+Description: 
+"""
+
 # 🚨 Don't change the code below 👇
 weight = input("Enter your weight in kg: ")
 height = input("Enter your height in m: ")

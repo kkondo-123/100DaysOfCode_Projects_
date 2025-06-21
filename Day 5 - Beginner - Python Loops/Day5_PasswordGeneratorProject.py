@@ -1,5 +1,5 @@
 """
-Name: 
+Name: Kana Kondo
 Date: 2025/06/03
 Course: 100 Days of Code Day 5
 Description: Random Password Generator

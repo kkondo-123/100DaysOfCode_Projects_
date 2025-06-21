@@ -1,5 +1,5 @@
 """
-Name:
+Name: Kana Kondo
 Date: 2021/10/27 - 2022/08/23
 Course: 100 Days of Code Day 3
 Description: Treasure Island Project

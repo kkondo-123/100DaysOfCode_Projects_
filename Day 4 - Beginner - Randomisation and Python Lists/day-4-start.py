@@ -1,3 +1,10 @@
+"""
+Name: Kana Kondo
+Date: 
+Course: 100 Days of Code Day 4
+Description: 
+"""
+
 import random
 import my_module
 

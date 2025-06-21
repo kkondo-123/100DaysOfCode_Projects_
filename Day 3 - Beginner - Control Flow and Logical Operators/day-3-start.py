@@ -1,3 +1,10 @@
+"""
+Name: Kana Kondo
+Date: 
+Course: 100 Days of Code Day 3
+Description: 
+"""
+
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 

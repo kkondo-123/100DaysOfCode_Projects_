@@ -1,3 +1,10 @@
+"""
+Name: Kana Kondo
+Date: 
+Course: 100 Days of Code Day 2
+Description: 
+"""
+
 # 🚨 Don't change the code below 👇
 two_digit_number = input("Type a two digit number: ")
 # 🚨 Don't change the code above 👆

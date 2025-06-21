@@ -1,5 +1,5 @@
 """
-Name:
+Name: Kana Kondo
 Date: 2025/06/04
 Course: 100 Days of Code Day 6
 Description: How to escape maze with additional maze challenges from Angela

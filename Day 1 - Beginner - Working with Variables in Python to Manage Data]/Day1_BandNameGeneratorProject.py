@@ -1,3 +1,10 @@
+"""
+Name: Kana Kondo
+Date: 
+Course: 100 Days of Code Day 1
+Description: Band Name Generator
+"""
+
 #1. Create a greeting for your program.
 print ("Hello! Welcome to the Band Name Generator ('U')\nThis generates a band name based on the city that you grew up in and the name of a pet.")
 
