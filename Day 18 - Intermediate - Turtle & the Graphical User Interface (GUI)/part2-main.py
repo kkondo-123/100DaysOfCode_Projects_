@@ -10,6 +10,10 @@ Instructions:
   - 10 x 10 rows x columns of spots 
   - 20 size dots spaced apart by 50
   - Use documentation: https://docs.python.org/3/library/turtle.html
+
+Used previous lessons/projects (within day 18) to create project:
+  - https://replit.com/@appbrewery/day-18-4-end#main.py
+  - https://replit.com/@appbrewery/day-18-5-end#main.py
 '''
 
 import random
